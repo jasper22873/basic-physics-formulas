@@ -20,7 +20,7 @@ setup(
         "Operating System :: OS Independent",
     ],
     install_requires=[],
-    url="https://github.com/jasper22873/basic-physics-formulas"
+    url="https://github.com/jasper22873/basic-physics-formulas",
     author='J.JASPER KIRUBAKARAN',
     author_email='jasper.kirubakaran@outlook.com'
 )
